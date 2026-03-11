@@ -68,3 +68,19 @@ table, th, td {
 th, td {
     padding: 10px;
 }
+address {
+    font-style: normal;
+    margin: 20px;
+}
+input {
+    padding: 10px;
+    width: 250px;
+    margin: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: purple;
+    color: white;
+    border: none;
+}
